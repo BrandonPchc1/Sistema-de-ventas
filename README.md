@@ -2,6 +2,7 @@ Proyecto final para 2do semestre de ingenieria en sistemas computacionales, real
 
 !!LEER!!
 Recomendado tener java 24.0.2+ para evitar problemas de version
+
 Para ejecutar el programa, descomprime el zip y ejecuta el proyecto en netbeans(Preferiblemente NetBeans IDE 28, que fue la que utilice al crear)
 
 1._ La cuenta admin tiene nombre admin y contraseña 1234
