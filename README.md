@@ -30,3 +30,4 @@ Para modificar un elemento, basta con poner el mismo nombre en realizar ventas, 
 
 Ventas: Aqui podras ver las ventas realizadas por el usuario y crear un reporte en .txt,el admin puede ver todas las ventas realizadas por todos los usuarios.
 
+<img width="897" height="647" alt="image" src="https://github.com/user-attachments/assets/ae376f99-272a-40ef-9a36-3ce5b8962340" />
