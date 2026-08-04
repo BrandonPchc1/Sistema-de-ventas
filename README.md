@@ -6,9 +6,11 @@ Proyecto final para 2do semestre de ingenieria en sistemas computacionales, real
 Para ejecutar el programa, descomprime el zip y ejecuta el proyecto en netbeans(Preferiblemente NetBeans IDE 28, que fue la que utilice al crear)
 
 1._ La cuenta admin tiene nombre admin y contraseña 1234
+
 <img width="897" height="647" alt="image" src="https://github.com/user-attachments/assets/ae376f99-272a-40ef-9a36-3ce5b8962340" />
 
 2._ No necesita de la creacion de una base de datos, el archivo utiliza sqllite-jdbc-3.53.00 por lo que ya viene integrado y se creara una carpeta llamada data al ejecutar, alli vendran las bases de datos.
+
 <img width="183" height="52" alt="image" src="https://github.com/user-attachments/assets/67077945-92d3-4552-a5bb-c211825efcba" />
 
 Link del sqllite https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc/3.53.0.0 (descargarlo en .jar) e incorporarlo en librerias(Es posible que al solo tenerlo descargado ya no sea necesario incorporarla).
