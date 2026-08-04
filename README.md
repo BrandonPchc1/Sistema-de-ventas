@@ -1,7 +1,8 @@
 Proyecto final para 2do semestre de ingenieria en sistemas computacionales, realizado el 28/05/2026 
 
-#!!LEER!!
-##Recomendado tener java 24.0.2+ para evitar problemas de version
+# !!LEER!!
+
+## Recomendado tener java 24.0.2+ para evitar problemas de version
 
 Para ejecutar el programa, descomprime el zip y ejecuta el proyecto en netbeans(Preferiblemente NetBeans IDE 28, que fue la que utilice al crear)
 
@@ -24,7 +25,7 @@ Estas carpetas se crean de forma local en la misma carpeta del ejecutable
 
 4.En caso de hacer click al boton de login y que no pase nada, vuelve a pulsarlo
 
-##Instrucciones:
+## Instrucciones:
 Puedes ingresar como admin o crear un usuario con la contraseña que quieras, el admin tendra permisos especiales sobre los usuarios normales.
 
 Usuario: En esta seccion puedes ver tu informacion personal como usuario, el admin puede ver todos los usuarios creados y sus contraseñas.
